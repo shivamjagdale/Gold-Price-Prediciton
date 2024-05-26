@@ -9,3 +9,6 @@ The instruments we have here are Silver, Spx, United States Oil price and EURUSD
 
 A note 📝: Here we are not forecasting, forecasting is a separate problem.
 We will look at forecasting later. For forecasting we will use LSTM long-short-term memory 🕰️.
+
+Also here we will look at a new way to test our data, here we will try to visualize the price predicted by our model to the actual price. 📉🔍
+As you can see (at the end) we have predicted the price correct for about 99% which is really good 🎯
